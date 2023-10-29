@@ -1,1 +1,3 @@
-# Twitter Example
+# Healthy Habits
+
+Our CalHacks submissions!
