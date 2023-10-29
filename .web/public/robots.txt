@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://deploytest.reflex.run
+
+# Sitemaps
+Sitemap: https://deploytest.reflex.run/sitemap.xml
