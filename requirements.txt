@@ -1,0 +1,7 @@
+reflex>=0.2.0
+opencv-python == 4.8.1.78
+mediapipe == 0.10.7
+cvzone == 1.6.1
+hume == 0.4.1
+openai == 0.28.1
+secure-smtplib == 0.1.1
